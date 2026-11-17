@@ -128,4 +128,4 @@ O site rodará em http://localhost:5173
         ├── context/    # Lógica global (Auth, Cart)
         └── screens/    # Páginas (Home, Product, Checkout)
 
-Desenvolvido por Henrique França.
+Projeto desenvolvido em equipe por **Guilherme Dornelas**, **Henrique Bruno** e colegas de turma.
